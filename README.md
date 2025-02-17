@@ -1,11 +1,11 @@
-## Hi there :sunglasses:
+## Olá :sunglasses:
 
 Eu sou Jaison Daniel, sou um desenvolvedor apaixonado por tecnologia. 
 <br>
 Neste universo digital, onde bits dançam e ideias ganham vida, transformo linhas de código em realidades que antes só existiam nos sonhos. 🚀💡
 
-  - :speech_balloon: Ask me about anything <a href="https://www.linkedin.com/in/jaison-daniel/"> here </a>
-  - :mailbox: How to reach me: <a href="https://www.instagram.com/jaisodniel/"> @jaisodniel </a>
+  - :speech_balloon: Pergunte-me sobre qualquer coisa <a href="https://www.linkedin.com/in/jaison-daniel/"> here </a>
+  - :mailbox: Como entrar em contato comigo: <a href="https://www.instagram.com/jaisodniel/"> @jaisodniel </a>
 
 
 <br>
